@@ -2,7 +2,7 @@
 
    <img align="right" src='https://media1.tenor.com/m/SBAt0s2C6mwAAAAC/cat-keyboard.gif' alt='cat and his computer' width = 250px />
 <p style='padding-right:12px'>I'm Kamil, self-taught front-end dev from Poland.</br>
-Recently, I mainly worked with React and typescript, but I also have commercial experience with React Native.</br>
+I mainly worked with React and typescript, but I also have commercial experience with React Native.</br>
 Currently trying to gain knowledge about beckend (node, go, sql).</br>
 outside of programming, I like boxing and rugby 
 </p>
