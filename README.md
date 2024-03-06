@@ -10,7 +10,7 @@ outside of programming, I like boxing and rugby
 </br>
 if you want to get in touch with us, go ahead and write: </br>
 
-- [kamil@xunaix.pl](mailto:kamil@xunai.pl)
+- [xunaix@pm.me](mailto:xunaix@pm.me)
 - [twitter](https://twitter.com/xunaix/)
 - [linkedin](https://www.linkedin.com/in/kamilpoprawa/)
 
